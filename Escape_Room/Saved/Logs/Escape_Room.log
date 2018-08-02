@@ -1121,3 +1121,531 @@ LogInit: Object subsystem initialized
 [2018.08.02-16.30.07:184][420]LogSavePackage: Save=11.48ms
 [2018.08.02-16.30.07:184][420]LogSavePackage: Moving '../../../../../GitHub/Escape-Room/Escape_Room/Saved/Acid365F7E5947FB440F6E0915976F47BEEC.tmp' to '../../../../../GitHub/Escape-Room/Escape_Room/Content/Materials/Acid.uasset'
 [2018.08.02-16.30.07:185][420]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Escape-Room/Escape_Room/Content/Materials/Acid.uasset
+[2018.08.02-16.32.49:734][619]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.08.02-16.32.51:558][767]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.08.02-16.32.53:296][907]MaterialEditorStats: Base pass shader: 116 instructions
+[2018.08.02-16.32.53:296][907]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2018.08.02-16.32.53:296][907]MaterialEditorStats: Vertex shader: 50 instructions
+[2018.08.02-16.32.53:296][907]MaterialEditorStats: Texture samplers: 4/16
+[2018.08.02-16.32.53:296][907]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.08.02-16.32.56:309][218]LogMaterialEditor: Applying material Acid
+[2018.08.02-16.32.56:652][218]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.08.02-16.32.56:725][218]LogMaterial: Missing cached shader map for material Acid, compiling. 
+[2018.08.02-16.32.56:790][218]LogMaterial: Missing cached shader map for material Acid, compiling. 
+[2018.08.02-16.32.56:846][218]LogMaterial: Missing cached shader map for material Acid, compiling. 
+[2018.08.02-16.32.56:967][218]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Acid, compiling. 
+[2018.08.02-16.32.58:081][218]TextureStreamingBuild: Display: Compiling optional shaders took 1.121 seconds.
+[2018.08.02-16.33.01:069][342]MaterialEditorStats: Base pass shader: 116 instructions
+[2018.08.02-16.33.01:069][342]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2018.08.02-16.33.01:069][342]MaterialEditorStats: Vertex shader: 73 instructions
+[2018.08.02-16.33.01:069][342]MaterialEditorStats: Texture samplers: 5/16
+[2018.08.02-16.33.01:069][342]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.08.02-16.33.19:623][308]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.08.02-16.33.21:265][464]LogMaterialEditor: Applying material Acid
+[2018.08.02-16.33.21:612][464]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.08.02-16.33.21:684][464]LogMaterial: Missing cached shader map for material Acid, compiling. 
+[2018.08.02-16.33.21:750][464]LogMaterial: Missing cached shader map for material Acid, compiling. 
+[2018.08.02-16.33.21:797][464]LogMaterial: Missing cached shader map for material Acid, compiling. 
+[2018.08.02-16.33.21:915][464]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Acid, compiling. 
+[2018.08.02-16.33.23:021][464]TextureStreamingBuild: Display: Compiling optional shaders took 1.112 seconds.
+[2018.08.02-16.33.28:274][608]MaterialEditorStats: Base pass shader: 116 instructions
+[2018.08.02-16.33.28:274][608]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2018.08.02-16.33.28:274][608]MaterialEditorStats: Vertex shader: 73 instructions
+[2018.08.02-16.33.28:274][608]MaterialEditorStats: Texture samplers: 5/16
+[2018.08.02-16.33.28:274][608]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.08.02-16.33.49:521][566]LogMaterialEditor: Saving and Compiling material Acid
+[2018.08.02-16.33.49:546][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Acid" FILE="../../../../../GitHub/Escape-Room/Escape_Room/Content/Materials/Acid.uasset" SILENT=true
+[2018.08.02-16.33.49:574][566]LogSavePackage: Save=16.74ms
+[2018.08.02-16.33.49:574][566]LogSavePackage: Moving '../../../../../GitHub/Escape-Room/Escape_Room/Saved/AcidB6B63C1A4EB097290CCA8499302B7967.tmp' to '../../../../../GitHub/Escape-Room/Escape_Room/Content/Materials/Acid.uasset'
+[2018.08.02-16.33.49:579][566]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Escape-Room/Escape_Room/Content/Materials/Acid.uasset
+[2018.08.02-16.36.23:191][232]LogMaterialEditor: Saving and Compiling material Acid
+[2018.08.02-16.36.23:207][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Acid" FILE="../../../../../GitHub/Escape-Room/Escape_Room/Content/Materials/Acid.uasset" SILENT=true
+[2018.08.02-16.36.23:220][232]LogSavePackage: Save=10.56ms
+[2018.08.02-16.36.23:220][232]LogSavePackage: Moving '../../../../../GitHub/Escape-Room/Escape_Room/Saved/Acid91888B0847AFC39F7837D987195D8FD7.tmp' to '../../../../../GitHub/Escape-Room/Escape_Room/Content/Materials/Acid.uasset'
+[2018.08.02-16.36.23:220][232]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Escape-Room/Escape_Room/Content/Materials/Acid.uasset
+[2018.08.02-16.36.34:506][228]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-16.36.34:522][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-16.36.34:522][228]PIE: New page: PIE session: LevelOne (3/08/2018 4:36:34 pm)
+[2018.08.02-16.36.34:522][228]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2018.08.02-16.36.34:528][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006015s)
+[2018.08.02-16.36.34:529][228]LogAIModule: Creating AISystem for world LevelOne
+[2018.08.02-16.36.34:529][228]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2018.08.02-16.36.34:530][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.007558s)
+[2018.08.02-16.36.34:559][228]LogInit: XAudio2 using 'Speakers (Logitech G433 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.08.02-16.36.34:572][228]LogInit: FAudioDevice initialized.
+[2018.08.02-16.36.34:603][228]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.02-16.36.34:605][228]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2018.08.03-04.36.34
+[2018.08.02-16.36.34:605][228]LogWorld: Bringing up level for play took: 0.000545
+[2018.08.02-16.36.34:607][228]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne -0.586
+[2018.08.02-16.36.38:042][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="../../../../../GitHub/Escape-Room/Escape_Room/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.02-16.36.38:108][635]LogSavePackage: Save=52.95ms
+[2018.08.02-16.36.38:108][635]LogSavePackage: Moving '../../../../../GitHub/Escape-Room/Escape_Room/Saved/LevelOneF3C661C94A773594739DF6A227260D5C.tmp' to '../../../../../GitHub/Escape-Room/Escape_Room/Content/Maps/LevelOne.umap'
+[2018.08.02-16.36.38:127][635]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Escape-Room/Escape_Room/Content/Maps/LevelOne.umap
+[2018.08.02-16.36.38:147][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="../../../../../GitHub/Escape-Room/Escape_Room/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2018.08.02-16.36.38:167][635]LogSavePackage: Save=15.52ms
+[2018.08.02-16.36.38:167][635]LogSavePackage: Moving '../../../../../GitHub/Escape-Room/Escape_Room/Saved/LevelOne_BuiltData5B4E0D0A4D58EA49F62F598BE4F8F382.tmp' to '../../../../../GitHub/Escape-Room/Escape_Room/Content/Maps/LevelOne_BuiltData.uasset'
+[2018.08.02-16.36.38:178][635]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Escape-Room/Escape_Room/Content/Maps/LevelOne_BuiltData.uasset
+[2018.08.02-16.36.43:164][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/acid_diff_map3" FILE="../../../../../GitHub/Escape-Room/Escape_Room/Content/Textures/acid_diff_map3.uasset" SILENT=true
+[2018.08.02-16.36.43:434][222]LogSavePackage: Save=268.53ms
+[2018.08.02-16.36.43:434][222]LogSavePackage: Moving '../../../../../GitHub/Escape-Room/Escape_Room/Saved/acid_diff_map380529FFF447470944BB5E887BE4070B0.tmp' to '../../../../../GitHub/Escape-Room/Escape_Room/Content/Textures/acid_diff_map3.uasset'
+[2018.08.02-16.36.43:438][222]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Escape-Room/Escape_Room/Content/Textures/acid_diff_map3.uasset
+[2018.08.02-16.36.43:448][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/acid_nrm_map3_1" FILE="../../../../../GitHub/Escape-Room/Escape_Room/Content/Textures/acid_nrm_map3_1.uasset" SILENT=true
+[2018.08.02-16.36.43:666][222]LogSavePackage: Save=217.34ms
+[2018.08.02-16.36.43:666][222]LogSavePackage: Moving '../../../../../GitHub/Escape-Room/Escape_Room/Saved/acid_nrm_map3_17441B8964C2487F4128ADC8E2530729F.tmp' to '../../../../../GitHub/Escape-Room/Escape_Room/Content/Textures/acid_nrm_map3_1.uasset'
+[2018.08.02-16.36.43:668][222]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Escape-Room/Escape_Room/Content/Textures/acid_nrm_map3_1.uasset
+[2018.08.02-16.36.56:753][851]LogActorFactory: Actor Factory created Cube
+[2018.08.02-16.36.57:668][954]LogActorFactory: Actor Factory created Cube
+[2018.08.02-16.37.02:177][490]LogActorFactory: Actor Factory created Cube
+[2018.08.02-16.37.03:707][669]LogActorFactory: Actor Factory created Cube
+[2018.08.02-16.37.22:046][854]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.02-16.37.23:328][  6]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.02-16.37.24:220][111]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-16.37.24:233][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-16.37.24:233][111]PIE: New page: PIE session: LevelOne (3/08/2018 4:37:24 pm)
+[2018.08.02-16.37.24:233][111]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2018.08.02-16.37.24:238][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005432s)
+[2018.08.02-16.37.24:239][111]LogAIModule: Creating AISystem for world LevelOne
+[2018.08.02-16.37.24:239][111]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2018.08.02-16.37.24:240][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.006643s)
+[2018.08.02-16.37.24:263][111]LogInit: XAudio2 using 'Speakers (Logitech G433 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.08.02-16.37.24:274][111]LogInit: FAudioDevice initialized.
+[2018.08.02-16.37.24:308][111]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.02-16.37.24:309][111]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2018.08.03-04.37.24
+[2018.08.02-16.37.24:309][111]LogWorld: Bringing up level for play took: 0.000522
+[2018.08.02-16.37.24:311][111]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne -0.881
+[2018.08.02-16.37.30:913][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.08.02-16.37.44:874][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.08.02-16.38.09:658][457]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-16.38.09:670][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-16.38.09:670][457]PIE: New page: PIE session: LevelOne (3/08/2018 4:38:09 pm)
+[2018.08.02-16.38.09:670][457]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2018.08.02-16.38.09:676][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005563s)
+[2018.08.02-16.38.09:677][457]LogAIModule: Creating AISystem for world LevelOne
+[2018.08.02-16.38.09:677][457]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2018.08.02-16.38.09:677][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.006386s)
+[2018.08.02-16.38.09:700][457]LogInit: XAudio2 using 'Speakers (Logitech G433 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.08.02-16.38.09:710][457]LogInit: FAudioDevice initialized.
+[2018.08.02-16.38.09:746][457]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.02-16.38.09:747][457]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2018.08.03-04.38.09
+[2018.08.02-16.38.09:747][457]LogWorld: Bringing up level for play took: 0.000570
+[2018.08.02-16.38.09:749][457]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne 0.557
+[2018.08.02-16.38.25:586][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.08.02-16.38.36:435][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.08.02-16.38.55:496][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.08.02-16.39.01:914][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.02-16.39.03:319][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.08.02-16.39.04:016][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.08.02-16.39.06:129][ 82]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.08.02-16.39.11:228][688]Cmd: TRANSACTION UNDO
+[2018.08.02-16.39.11:228][688]LogEditorTransaction: Undo Move Actors
+[2018.08.02-16.39.35:090][543]LogActorFactory: Actor Factory created Cube
+[2018.08.02-16.39.36:285][675]LogActorFactory: Actor Factory created Cube
+[2018.08.02-16.40.00:575][547]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.08.02-16.40.19:525][804]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.02-16.40.20:348][901]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-16.40.20:362][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-16.40.20:362][901]PIE: New page: PIE session: LevelOne (3/08/2018 4:40:20 pm)
+[2018.08.02-16.40.20:362][901]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2018.08.02-16.40.20:368][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006019s)
+[2018.08.02-16.40.20:369][901]LogAIModule: Creating AISystem for world LevelOne
+[2018.08.02-16.40.20:369][901]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2018.08.02-16.40.20:369][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.007204s)
+[2018.08.02-16.40.20:394][901]LogInit: XAudio2 using 'Speakers (Logitech G433 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.08.02-16.40.20:406][901]LogInit: FAudioDevice initialized.
+[2018.08.02-16.40.20:435][901]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.02-16.40.20:437][901]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2018.08.03-04.40.20
+[2018.08.02-16.40.20:437][901]LogWorld: Bringing up level for play took: 0.000619
+[2018.08.02-16.40.20:439][901]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne -0.754
+[2018.08.02-16.40.29:825][978]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.02-16.40.33:709][406]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.08.02-16.40.34:386][482]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-16.40.34:399][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-16.40.34:399][482]PIE: New page: PIE session: LevelOne (3/08/2018 4:40:34 pm)
+[2018.08.02-16.40.34:399][482]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2018.08.02-16.40.34:405][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005618s)
+[2018.08.02-16.40.34:406][482]LogAIModule: Creating AISystem for world LevelOne
+[2018.08.02-16.40.34:406][482]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2018.08.02-16.40.34:406][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.006870s)
+[2018.08.02-16.40.34:429][482]LogInit: XAudio2 using 'Speakers (Logitech G433 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.08.02-16.40.34:440][482]LogInit: FAudioDevice initialized.
+[2018.08.02-16.40.34:476][482]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.02-16.40.34:477][482]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2018.08.03-04.40.34
+[2018.08.02-16.40.34:478][482]LogWorld: Bringing up level for play took: 0.000590
+[2018.08.02-16.40.34:479][482]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne -0.714
+[2018.08.02-16.40.49:599][265]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.40.49:654][265]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.40.49:671][265]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.40.50:913][369]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.02-16.40.50:913][369]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.02-16.40.50:913][369]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.08.02-16.40.50:913][369]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.02-16.40.51:220][404]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.40.51:236][404]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.08.02-16.40.52:280][496]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.02-16.40.52:280][496]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.02-16.40.52:280][496]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.08.02-16.40.52:280][496]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.02-16.40.52:579][530]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.40.52:598][530]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.08.02-16.40.53:587][613]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.02-16.40.53:587][613]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.02-16.40.53:587][613]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.08.02-16.40.53:587][613]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.02-16.40.56:343][926]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.40.56:360][926]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.08.02-16.40.56:969][976]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.40.56:991][976]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.08.02-16.40.57:514][ 18]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.40.57:539][ 18]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.08.02-16.40.58:339][ 84]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.40.58:365][ 84]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.08.02-16.40.59:527][186]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.08.02-16.40.59:527][186]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.08.02-16.40.59:527][186]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.08.02-16.40.59:527][186]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.02-16.41.02:895][581]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.41.03:838][663]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.08.02-16.41.03:838][663]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.08.02-16.41.03:838][663]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.08.02-16.41.03:838][663]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.02-16.41.04:093][693]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.41.05:059][780]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.08.02-16.41.05:059][780]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.08.02-16.41.05:059][780]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.08.02-16.41.05:059][780]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.02-16.41.05:088][783]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.41.05:991][862]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.41.06:975][951]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.08.02-16.41.06:975][951]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2018.08.02-16.41.06:975][951]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.08.02-16.41.06:975][951]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.02-16.41.08:645][148]LogMaterialEditor: Saving and Compiling material Placeholder
+[2018.08.02-16.41.08:981][148]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.41.09:027][148]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.41.09:060][148]LogMaterial: Missing cached shader map for material Placeholder, compiling. 
+[2018.08.02-16.41.09:095][148]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Placeholder, compiling. 
+[2018.08.02-16.41.09:836][148]TextureStreamingBuild: Display: Compiling optional shaders took 0.747 seconds.
+[2018.08.02-16.41.11:582][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Placeholder" FILE="../../../../../GitHub/Escape-Room/Escape_Room/Content/Materials/Placeholder.uasset" SILENT=true
+[2018.08.02-16.41.11:597][148]LogSavePackage: Save=13.31ms
+[2018.08.02-16.41.11:597][148]LogSavePackage: Moving '../../../../../GitHub/Escape-Room/Escape_Room/Saved/Placeholder19B32A364A9EAA1A00484596A4FD55F1.tmp' to '../../../../../GitHub/Escape-Room/Escape_Room/Content/Materials/Placeholder.uasset'
+[2018.08.02-16.41.11:598][148]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Escape-Room/Escape_Room/Content/Materials/Placeholder.uasset
+[2018.08.02-16.41.11:609][148]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.08.02-16.41.11:609][148]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2018.08.02-16.41.11:609][148]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.08.02-16.41.11:609][148]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.02-16.41.43:760][523]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-16.41.43:773][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-16.41.43:773][523]PIE: New page: PIE session: LevelOne (3/08/2018 4:41:43 pm)
+[2018.08.02-16.41.43:773][523]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2018.08.02-16.41.43:779][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005725s)
+[2018.08.02-16.41.43:780][523]LogAIModule: Creating AISystem for world LevelOne
+[2018.08.02-16.41.43:780][523]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2018.08.02-16.41.43:781][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.007281s)
+[2018.08.02-16.41.43:804][523]LogInit: XAudio2 using 'Speakers (Logitech G433 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.08.02-16.41.43:815][523]LogInit: FAudioDevice initialized.
+[2018.08.02-16.41.43:845][523]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.08.02-16.41.43:846][523]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2018.08.03-04.41.43
+[2018.08.02-16.41.43:846][523]LogWorld: Bringing up level for play took: 0.000658
+[2018.08.02-16.41.43:848][523]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne 0.654
+[2018.08.02-16.41.54:109][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="../../../../../GitHub/Escape-Room/Escape_Room/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.02-16.41.54:178][734]LogSavePackage: Save=54.83ms
+[2018.08.02-16.41.54:178][734]LogSavePackage: Moving '../../../../../GitHub/Escape-Room/Escape_Room/Saved/LevelOne8ABF50E5405F044A4A98838F35A36C85.tmp' to '../../../../../GitHub/Escape-Room/Escape_Room/Content/Maps/LevelOne.umap'
+[2018.08.02-16.41.54:180][734]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Escape-Room/Escape_Room/Content/Maps/LevelOne.umap
+[2018.08.02-16.41.54:199][734]LogFileHelpers: Saving map 'LevelOne' took 0.128
+[2018.08.02-16.41.57:898][144]Cmd: QUIT_EDITOR
+[2018.08.02-16.41.58:036][144]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.02-16.41.58:048][144]LogExit: Preparing to exit.
+[2018.08.02-16.41.58:237][144]LogDirectoryWatcher: A directory notification for 'D:/GitHub/Escape-Room/Escape_Room/Content/' was aborted.
+[2018.08.02-16.41.58:264][144]LogExit: Editor shut down
+[2018.08.02-16.41.58:274][144]LogExit: Transaction tracking system shut down
+[2018.08.02-16.41.58:414][144]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.02-16.41.58:414][144]LogDirectoryWatcher: A directory notification for '../../../../../GitHub/Escape-Room/Escape_Room/Content/' was aborted.
+[2018.08.02-16.41.58:414][144]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.02-16.41.58:414][144]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.08.02-16.41.58:414][144]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.08.02-16.41.58:414][144]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.08.02-16.41.58:415][144]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.08.02-16.41.58:470][144]LogExit: Object subsystem successfully closed.
+[2018.08.02-16.41.58:493][144]LogD3D11RHI: Shutdown
+[2018.08.02-16.41.58:493][144]LogD3D11RHI: CleanupD3DDevice
+[2018.08.02-16.41.58:496][144]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.02-16.41.58:503][144]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.08.02-16.41.58:503][144]LogModuleManager: Shutting down and abandoning module MaterialEditor (550)
+[2018.08.02-16.41.58:503][144]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.08.02-16.41.58:503][144]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.08.02-16.41.58:503][144]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.08.02-16.41.58:503][144]LogDirectoryWatcher: A directory notification for 'D:/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.08.02-16.41.58:504][144]LogDirectoryWatcher: A directory notification for 'D:/GitHub/Escape-Room/Escape_Room/Content/Collections/' was aborted.
+[2018.08.02-16.41.58:504][144]LogDirectoryWatcher: A directory notification for 'D:/GitHub/Escape-Room/Escape_Room/Content/Developers/Chris/Collections/' was aborted.
+[2018.08.02-16.41.58:504][144]LogDirectoryWatcher: A directory notification for 'D:/GitHub/Escape-Room/Escape_Room/Saved/Collections/' was aborted.
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.08.02-16.41.58:504][144]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.08.02-16.41.58:505][144]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.08.02-16.41.58:880][144]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.08.02-16.41.58:881][144]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.08.02-16.41.58:881][144]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.08.02-16.41.58:881][144]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.08.02-16.41.58:881][144]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.08.02-16.41.58:881][144]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.08.02-16.41.58:881][144]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.08.02-16.41.58:881][144]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.08.02-16.41.58:881][144]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.08.02-16.41.58:936][144]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.08.02-16.41.58:937][144]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.08.02-16.41.58:937][144]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.08.02-16.41.58:937][144]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.08.02-16.41.58:937][144]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.08.02-16.41.58:937][144]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.08.02-16.41.58:937][144]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.08.02-16.41.58:937][144]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.08.02-16.41.58:937][144]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.08.02-16.41.58:937][144]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.08.02-16.41.58:937][144]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.08.02-16.41.58:937][144]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.08.02-16.41.59:058][144]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.08.02-16.41.59:059][144]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.08.02-16.41.59:060][144]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.08.02-16.41.59:060][144]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.08.02-16.41.59:060][144]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.08.02-16.41.59:060][144]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.08.02-16.41.59:060][144]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.08.02-16.41.59:060][144]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.08.02-16.41.59:060][144]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.08.02-16.41.59:060][144]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.08.02-16.41.59:060][144]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.08.02-16.41.59:060][144]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.08.02-16.41.59:060][144]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.08.02-16.41.59:160][144]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.08.02-16.41.59:262][144]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.08.02-16.41.59:262][144]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.08.02-16.41.59:262][144]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.08.02-16.41.59:262][144]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.08.02-16.41.59:262][144]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.08.02-16.41.59:262][144]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.08.02-16.41.59:263][144]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.08.02-16.41.59:263][144]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.08.02-16.41.59:263][144]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.08.02-16.41.59:263][144]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.08.02-16.41.59:264][144]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.08.02-16.41.59:264][144]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.08.02-16.41.59:264][144]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.08.02-16.41.59:264][144]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.08.02-16.41.59:264][144]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.08.02-16.41.59:264][144]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.08.02-16.41.59:271][144]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.08.02-16.41.59:273][144]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.08.02-16.41.59:273][144]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.08.02-16.41.59:273][144]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.08.02-16.41.59:273][144]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.08.02-16.41.59:273][144]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.08.02-16.41.59:273][144]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.08.02-16.41.59:273][144]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.08.02-16.41.59:273][144]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.08.02-16.41.59:274][144]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.08.02-16.41.59:274][144]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.08.02-16.41.59:274][144]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.08.02-16.41.59:274][144]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.08.02-16.41.59:274][144]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.08.02-16.41.59:274][144]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.08.02-16.41.59:274][144]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.08.02-16.41.59:274][144]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.08.02-16.41.59:274][144]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.08.02-16.41.59:360][144]LogDerivedDataCache: Shutdown
+[2018.08.02-16.41.59:360][144]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.08.02-16.41.59:360][144]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.08.02-16.41.59:360][144]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.08.02-16.41.59:360][144]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.08.02-16.41.59:360][144]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.08.02-16.41.59:360][144]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.08.02-16.41.59:360][144]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.08.02-16.41.59:360][144]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.08.02-16.41.59:360][144]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.08.02-16.41.59:360][144]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.08.02-16.41.59:360][144]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.08.02-16.41.59:360][144]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.08.02-16.41.59:361][144]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.08.02-16.41.59:361][144]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.02-16.41.59:361][144]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6B6538EC-483C-C6C2-816E-CDA8CAF4ADFB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=f2230d48466e1fc11c15d1ae45529b58%7C5f31e5601c044e60b553d8977a4354c3%7C821c1a31-a4ca-440d-a8ac-373478d2f0af&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.02-16.41.59:371][144]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.08.02-16.41.59:371][144]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.02-16.41.59:371][144]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.02-16.41.59:371][144]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.02-16.41.59:372][144]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.02-16.41.59:375][144]LogExit: Exiting.
+[2018.08.02-16.41.59:385][144]Log file closed, 08/03/18 04:41:59
