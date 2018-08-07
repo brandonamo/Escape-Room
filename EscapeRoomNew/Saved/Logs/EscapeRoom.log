@@ -335,3 +335,15 @@ LogInit: Object subsystem initialized
 [2018.08.07-22.54.23:497][  0]LogContentStreaming: Texture pool size now 3000 MB
 [2018.08.07-22.54.23:523][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2018.08.07-22.54.24:489][114]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.07-22.55.43:393][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-22.56.29:560][267]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.08.07-22.56.29:931][267]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.08.07-22.56.32:218][448]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.08.07-22.56.32:222][448]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.08.07-22.58.28:594][ 58]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 D:\Users\chris.hay6821\Downloads\prototype_2 (1).mp3)
+[2018.08.07-22.58.34:822][476]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.07-22.58.34:876][476]LogLinker: Warning: Can't find file '/Game/Mesh/prototype_2__1_'
+[2018.08.07-22.58.34:876][476]LogLinker: Warning: Can't find file '/Game/Mesh/prototype_2__1_'
+[2018.08.07-22.58.34:876][476]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mesh/prototype_2__1_.prototype_2__1_'
+[2018.08.07-23.38.39:850][910]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.08.07-23.38.39:882][910]LogSlate: FSceneViewport::OnFocusLost() reason 2
