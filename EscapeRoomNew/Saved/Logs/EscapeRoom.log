@@ -1,4 +1,4 @@
-﻿Log file open, 08/08/18 10:54:17
+﻿Log file open, 08/08/18 11:45:12
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: EscapeRoom
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.267919
+LogStats: Stats thread started at 0.273846
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -93,7 +93,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.073s to configure plugins.
+LogStreaming: Display: Took  0.099s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -125,7 +125,7 @@ LogInit: Compiled with Visual C++: 19.13.26129.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.20
 LogInit: Command Line:  
-LogInit: Base Directory: C:/apps/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Base Directory: C:/apps/UE_4.20/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 20
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -151,199 +151,234 @@ LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
 LogStreaming: Display: Took  0.000s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.08.07-22.54.17:814][  0]LogInit: Selected Device Profile: [Windows]
-[2018.08.07-22.54.17:814][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.08.07-22.54.17:820][  0]LogHAL: Display: Platform has ~ 32 GB [34317541376 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.08.07-22.54.17:820][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.08.07-22.54.17:820][  0]LogInit: Going up to parent DeviceProfile []
-[2018.08.07-22.54.17:820][  0]LogInit: Computer: 1805C019
-[2018.08.07-22.54.17:820][  0]LogInit: User: chrishay6821
-[2018.08.07-22.54.17:820][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.08.07-22.54.17:820][  0]LogInit: High frequency timer resolution =3.515627 MHz
-[2018.08.07-22.54.17:820][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
-[2018.08.07-22.54.17:820][  0]LogMemory: Platform Memory Stats for Windows
-[2018.08.07-22.54.17:820][  0]LogMemory: Process Physical Memory: 101.40 MB used, 101.40 MB peak
-[2018.08.07-22.54.17:820][  0]LogMemory: Process Virtual Memory: 93.73 MB used, 93.73 MB peak
-[2018.08.07-22.54.17:820][  0]LogMemory: Physical Memory: 6049.14 MB used,  26678.62 MB free, 32727.76 MB total
-[2018.08.07-22.54.17:821][  0]LogMemory: Virtual Memory: 552.50 MB used,  26678.62 MB free, 134217728.00 MB total
-[2018.08.07-22.54.17:840][  0]LogInit: Using OS detected language (en-US).
-[2018.08.07-22.54.17:840][  0]LogInit: Using OS detected locale (en-US).
-[2018.08.07-22.54.17:840][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.08.07-22.54.18:129][  0]LogStreaming: Display: Took  0.290s to InitEngineTextLocalization.
-[2018.08.07-22.54.18:129][  0]LogInit: Setting process to per monitor DPI aware
-[2018.08.07-22.54.18:156][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.08.07-22.54.18:156][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.08.07-22.54.18:351][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.08.07-22.54.18:351][  0]LogD3D11RHI: D3D11 adapters:
-[2018.08.07-22.54.18:401][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
-[2018.08.07-22.54.18:401][  0]LogD3D11RHI:       8086/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2018.08.07-22.54.18:404][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.08.07-22.54.18:404][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.08.07-22.54.18:404][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.08.07-22.54.18:409][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.08.07-22.54.18:409][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
-[2018.08.07-22.54.18:409][  0]LogWindows: EnumDisplayDevices:
-[2018.08.07-22.54.18:409][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
-[2018.08.07-22.54.18:409][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
-[2018.08.07-22.54.18:409][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.08.07-22.54.18:409][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.08.07-22.54.18:409][  0]LogWindows:    4. 'Mirage Driver' (P:0 D:0)
-[2018.08.07-22.54.18:409][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2018.08.07-22.54.18:409][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
-[2018.08.07-22.54.18:409][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
-[2018.08.07-22.54.18:409][  0]LogD3D11RHI:      Driver Date: 10-27-2017
-[2018.08.07-22.54.18:409][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
-[2018.08.07-22.54.18:433][  0]LogD3D11RHI: Async texture creation enabled
-[2018.08.07-22.54.18:444][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.08.07-22.54.18:530][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (D:/Users/chris.hay6821/Documents/Github/Escape-Room/EscapeRoomNew/Intermediate/Shaders/WorkingDirectory/4092/).
-[2018.08.07-22.54.18:530][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/chris.hay6821/AppData/Local/Temp/UnrealShaderWorkingDir/FF0D93EC4FF1141F63BC81BAB0E382E0/'.
-[2018.08.07-22.54.18:743][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.08.07-22.54.18:754][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.08.07-22.54.18:765][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.08.07-22.54.18:776][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.08.07-22.54.18:787][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.08.07-22.54.18:798][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.08.07-22.54.18:808][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.08.07-22.54.18:819][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.08.07-22.54.18:824][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.07-22.54.18:901][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.08.07-22.54.18:960][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.08.07-22.54.18:960][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.08.07-22.54.18:980][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.08.07-22.54.18:981][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.08.07-22.54.18:992][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.08.07-22.54.19:002][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.08.07-22.54.19:013][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.08.07-22.54.19:024][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.08.07-22.54.19:032][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.08.07-22.54.19:033][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.08.07-22.54.19:085][  0]LogXGEController: Cleaning working directory: D:/Users/chris.hay6821/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.08.07-22.54.19:085][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.08.07-22.54.19:085][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.08.07-22.54.19:085][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.08.07-22.54.19:836][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.08.07-22.54.19:887][  0]LogDerivedDataCache: Loaded boot cache 0.05s 89MB D:/Users/chris.hay6821/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.08.07-22.54.19:887][  0]LogDerivedDataCache: Display: Loaded Boot cache: D:/Users/chris.hay6821/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.08.07-22.54.19:887][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/chris.hay6821/Documents/Github/Escape-Room/EscapeRoomNew/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.08.07-22.54.19:888][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.08.07-22.54.19:888][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/chris.hay6821/Documents/Github/Escape-Room/EscapeRoomNew/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.08.07-22.54.19:888][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.08.07-22.54.19:899][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.08.07-22.54.19:911][  0]LogDerivedDataCache: Using Local data cache path D:/Users/chris.hay6821/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.08.07-22.54.19:911][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.08.07-22.54.19:911][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.08.07-22.54.19:926][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.08.07-22.54.19:927][  0]LogSlate: Using FreeType 2.6.0
-[2018.08.07-22.54.19:928][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.08.07-22.54.19:998][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
-[2018.08.07-22.54.20:249][  0]LogInit: Selected Device Profile: [Windows]
-[2018.08.07-22.54.20:364][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.08.07-22.54.20:367][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.08.07-22.54.20:367][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2018.08.07-22.54.20:367][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.08.07-22.54.20:367][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.08.07-22.54.20:381][  0]LogNetVersion: EscapeRoom 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2545078580)
-[2018.08.07-22.54.20:796][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.063281 seconds
-[2018.08.07-22.54.20:800][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
-[2018.08.07-22.54.20:801][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
-[2018.08.07-22.54.20:801][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.08.07-22.54.21:534][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.08.07-22.54.21:547][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.08.07-22.54.21:797][  0]SourceControl: Source control is disabled
-[2018.08.07-22.54.21:797][  0]SourceControl: Source control is disabled
-[2018.08.07-22.54.21:799][  0]SourceControl: Source control is disabled
-[2018.08.07-22.54.21:800][  0]SourceControl: Source control is disabled
-[2018.08.07-22.54.21:961][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.08.07-22.54.21:989][  0]LogOcInput: OculusInput pre-init called
-[2018.08.07-22.54.22:042][  0]LogEngine: Initializing Engine...
-[2018.08.07-22.54.22:043][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.08.07-22.54.22:044][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.08.07-22.54.22:044][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.08.07-22.54.22:044][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.08.07-22.54.22:044][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.08.07-22.54.22:223][  0]LogInit: Initializing FReadOnlyCVARCache
-[2018.08.07-22.54.22:235][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.08.07-22.54.22:239][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.08.07-22.54.22:252][  0]LogInit: FAudioDevice initialized.
-[2018.08.07-22.54.22:252][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2018.08.07-22.54.22:367][  0]LogDerivedDataCache: Saved boot cache 0.12s 89MB D:/Users/chris.hay6821/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.08.07-22.54.22:370][  0]LogInit: Texture streaming: Enabled
-[2018.08.07-22.54.22:383][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.08.07-22.54.22:392][  0]LogInit: Transaction tracking system initialized
-[2018.08.07-22.54.22:412][  0]BlueprintLog: New page: Editor Load
-[2018.08.07-22.54.22:501][  0]LocalizationService: Localization service is disabled
-[2018.08.07-22.54.22:732][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.08.07-22.54.22:732][  0]LogCook: Display: Mobile HDR setting 1
-[2018.08.07-22.54.22:732][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.08.07-22.54.22:732][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.08.07-22.54.22:732][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.08.07-22.54.22:732][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.08.07-22.54.22:732][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.08.07-22.54.22:795][  0]LogFileCache: Scanning file cache for directory 'D:/Users/chris.hay6821/Documents/Github/Escape-Room/EscapeRoomNew/Content/' took 0.01s
-[2018.08.07-22.54.22:825][  0]SourceControl: Source control is disabled
-[2018.08.07-22.54.22:825][  0]Cmd: MAP LOAD FILE="D:/Users/chris.hay6821/Documents/Github/Escape-Room/EscapeRoomNew/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.08.07-22.54.22:825][  0]LightingResults: New page: Lighting Build
-[2018.08.07-22.54.22:827][  0]MapCheck: New page: Map Check
-[2018.08.07-22.54.22:827][  0]LightingResults: New page: Lighting Build
-[2018.08.07-22.54.22:978][  0]LogAIModule: Creating AISystem for world NewMap
-[2018.08.07-22.54.22:984][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.08.07-22.54.23:004][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.08.07-22.54.23:086][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.521ms to complete.
-[2018.08.07-22.54.23:086][  0]LogFileHelpers: Loading map 'NewMap' took 0.261
-[2018.08.07-22.54.23:172][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.08.07-22.54.23:179][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.08.07-22.54.23:185][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.08.07-22.54.23:190][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.08.07-22.54.23:196][  0]LogCollectionManager: Loaded 0 collections in 0.001024 seconds
-[2018.08.07-22.54.23:237][  0]LogFileCache: Scanning file cache for directory 'D:/Users/chris.hay6821/Documents/Github/Escape-Room/EscapeRoomNew/Saved/Collections/' took 0.01s
-[2018.08.07-22.54.23:237][  0]LogFileCache: Scanning file cache for directory 'D:/Users/chris.hay6821/Documents/Github/Escape-Room/EscapeRoomNew/Content/Developers/chrishay6821/Collections/' took 0.01s
-[2018.08.07-22.54.23:237][  0]LogFileCache: Scanning file cache for directory 'D:/Users/chris.hay6821/Documents/Github/Escape-Room/EscapeRoomNew/Content/Collections/' took 0.01s
-[2018.08.07-22.54.23:237][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.08.07-22.54.23:245][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2574 classes and 605 folders.
-[2018.08.07-22.54.23:250][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.08.07-22.54.23:280][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.08.07-22.54.23:283][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.08.07-22.54.23:294][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.08.07-22.54.23:297][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.08.07-22.54.23:302][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.08.07-22.54.23:372][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
-[2018.08.07-22.54.23:466][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.08.07-22.54.23:466][  0]LogLoad: (Engine Initialization) Total time: 6.78 seconds
-[2018.08.07-22.54.23:466][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.08.07-22.54.23:475][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.08.07-22.54.23:493][  0]LogAssetRegistry: Asset discovery search completed in 3.5176 seconds
-[2018.08.07-22.54.23:495][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.08.07-22.54.23:495][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
-[2018.08.07-22.54.23:497][  0]LogContentStreaming: Texture pool size now 3000 MB
-[2018.08.07-22.54.23:523][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.08.07-22.54.24:489][114]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.08.07-22.55.43:393][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.07-22.56.29:560][267]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
-[2018.08.07-22.56.29:931][267]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
-[2018.08.07-22.56.32:218][448]LogSlate: Window 'ThirdPersonCharacter' being destroyed
-[2018.08.07-22.56.32:222][448]LogSlate: Window 'ThirdPersonCharacter' being destroyed
-[2018.08.07-22.58.28:594][ 58]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 D:\Users\chris.hay6821\Downloads\prototype_2 (1).mp3)
-[2018.08.07-22.58.34:822][476]LogSlate: Window 'Delete Assets' being destroyed
-[2018.08.07-22.58.34:876][476]LogLinker: Warning: Can't find file '/Game/Mesh/prototype_2__1_'
-[2018.08.07-22.58.34:876][476]LogLinker: Warning: Can't find file '/Game/Mesh/prototype_2__1_'
-[2018.08.07-22.58.34:876][476]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mesh/prototype_2__1_.prototype_2__1_'
-[2018.08.07-23.38.39:850][910]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
-[2018.08.07-23.38.39:882][910]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-23.45.12:339][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.07-23.45.12:339][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.07-23.45.12:346][  0]LogHAL: Display: Platform has ~ 32 GB [34317541376 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.07-23.45.12:346][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.07-23.45.12:346][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.07-23.45.12:347][  0]LogInit: Computer: 1805C024
+[2018.08.07-23.45.12:347][  0]LogInit: User: mitchelljan7103
+[2018.08.07-23.45.12:347][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.07-23.45.12:347][  0]LogInit: High frequency timer resolution =3.515627 MHz
+[2018.08.07-23.45.12:347][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.08.07-23.45.12:347][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.07-23.45.12:347][  0]LogMemory: Process Physical Memory: 101.55 MB used, 101.55 MB peak
+[2018.08.07-23.45.12:347][  0]LogMemory: Process Virtual Memory: 93.80 MB used, 93.80 MB peak
+[2018.08.07-23.45.12:347][  0]LogMemory: Physical Memory: 12687.01 MB used,  20040.75 MB free, 32727.76 MB total
+[2018.08.07-23.45.12:347][  0]LogMemory: Virtual Memory: 552.46 MB used,  20040.75 MB free, 134217728.00 MB total
+[2018.08.07-23.45.12:369][  0]LogInit: Using OS detected language (en-US).
+[2018.08.07-23.45.12:369][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.07-23.45.12:369][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.07-23.45.12:665][  0]LogStreaming: Display: Took  0.296s to InitEngineTextLocalization.
+[2018.08.07-23.45.12:665][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.07-23.45.12:687][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.07-23.45.12:687][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.07-23.45.12:882][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.07-23.45.12:882][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.07-23.45.12:934][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.08.07-23.45.12:934][  0]LogD3D11RHI:       8086/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.08.07-23.45.12:936][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.07-23.45.12:936][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.07-23.45.12:936][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.07-23.45.12:943][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.07-23.45.12:943][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.07-23.45.12:943][  0]LogWindows: EnumDisplayDevices:
+[2018.08.07-23.45.12:943][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.08.07-23.45.12:943][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.08.07-23.45.12:943][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.08.07-23.45.12:944][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.08.07-23.45.12:944][  0]LogWindows:    4. 'Mirage Driver' (P:0 D:0)
+[2018.08.07-23.45.12:944][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.08.07-23.45.12:944][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.08.07-23.45.12:944][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.08.07-23.45.12:944][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.08.07-23.45.12:944][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.08.07-23.45.12:968][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.07-23.45.12:994][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.07-23.45.13:079][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Intermediate/Shaders/WorkingDirectory/17032/).
+[2018.08.07-23.45.13:080][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/mitchell.jan7103/AppData/Local/Temp/UnrealShaderWorkingDir/6A99962C4D8130E749667BA3E9AE399D/'.
+[2018.08.07-23.45.13:507][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.07-23.45.13:521][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.07-23.45.13:533][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.07-23.45.13:545][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.07-23.45.13:558][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.07-23.45.13:570][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.07-23.45.13:582][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.07-23.45.13:593][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.07-23.45.13:601][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.45.13:694][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.07-23.45.13:751][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.07-23.45.13:751][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.07-23.45.13:773][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.07-23.45.13:773][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.07-23.45.13:784][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.07-23.45.13:795][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.07-23.45.13:807][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.07-23.45.13:819][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.07-23.45.13:828][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.07-23.45.13:828][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.07-23.45.13:886][  0]LogXGEController: Cleaning working directory: D:/Users/mitchell.jan7103/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.07-23.45.13:886][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.07-23.45.13:886][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.07-23.45.13:886][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.07-23.45.14:636][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.07-23.45.14:696][  0]LogDerivedDataCache: Loaded boot cache 0.06s 89MB D:/Users/mitchell.jan7103/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.07-23.45.14:697][  0]LogDerivedDataCache: Display: Loaded Boot cache: D:/Users/mitchell.jan7103/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.07-23.45.14:697][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.07-23.45.14:697][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.07-23.45.14:697][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.07-23.45.14:697][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.07-23.45.14:709][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.07-23.45.14:721][  0]LogDerivedDataCache: Using Local data cache path D:/Users/mitchell.jan7103/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.07-23.45.14:721][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.07-23.45.14:721][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.07-23.45.14:739][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.07-23.45.14:740][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.07-23.45.14:742][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.07-23.45.14:819][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2018.08.07-23.45.15:153][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.07-23.45.15:273][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.07-23.45.15:277][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.07-23.45.15:277][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.07-23.45.15:277][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.07-23.45.15:277][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.07-23.45.15:294][  0]LogNetVersion: EscapeRoom 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2545078580)
+[2018.08.07-23.45.15:764][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.081159 seconds
+[2018.08.07-23.45.15:770][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.07-23.45.15:770][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.08.07-23.45.15:770][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.07-23.45.16:608][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.07-23.45.16:621][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.07-23.45.16:940][  0]SourceControl: Source control is disabled
+[2018.08.07-23.45.16:940][  0]SourceControl: Source control is disabled
+[2018.08.07-23.45.16:942][  0]SourceControl: Source control is disabled
+[2018.08.07-23.45.16:944][  0]SourceControl: Source control is disabled
+[2018.08.07-23.45.17:105][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.07-23.45.17:141][  0]LogOcInput: OculusInput pre-init called
+[2018.08.07-23.45.17:194][  0]LogEngine: Initializing Engine...
+[2018.08.07-23.45.17:194][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.07-23.45.17:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.07-23.45.17:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.07-23.45.17:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.07-23.45.17:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.07-23.45.17:370][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.07-23.45.17:382][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.07-23.45.17:425][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.07-23.45.17:461][  0]LogInit: FAudioDevice initialized.
+[2018.08.07-23.45.17:461][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.07-23.45.17:936][  0]LogDerivedDataCache: Saved boot cache 0.47s 89MB D:/Users/mitchell.jan7103/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.07-23.45.17:937][  0]LogInit: Texture streaming: Enabled
+[2018.08.07-23.45.17:951][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.07-23.45.17:962][  0]LogInit: Transaction tracking system initialized
+[2018.08.07-23.45.17:984][  0]BlueprintLog: New page: Editor Load
+[2018.08.07-23.45.18:090][  0]LocalizationService: Localization service is disabled
+[2018.08.07-23.45.18:336][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.07-23.45.18:336][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.07-23.45.18:336][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.07-23.45.18:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.07-23.45.18:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.07-23.45.18:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.07-23.45.18:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.07-23.45.18:453][  0]LogFileCache: Scanning file cache for directory 'D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Content/' took 0.01s
+[2018.08.07-23.45.18:453][  0]SourceControl: Source control is disabled
+[2018.08.07-23.45.18:453][  0]Cmd: MAP LOAD FILE="D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.07-23.45.18:453][  0]LightingResults: New page: Lighting Build
+[2018.08.07-23.45.18:456][  0]MapCheck: New page: Map Check
+[2018.08.07-23.45.18:456][  0]LightingResults: New page: Lighting Build
+[2018.08.07-23.45.19:129][  0]LogAIModule: Creating AISystem for world NewMap
+[2018.08.07-23.45.19:135][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.07-23.45.19:156][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.07-23.45.19:258][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.478ms to complete.
+[2018.08.07-23.45.19:258][  0]LogFileHelpers: Loading map 'NewMap' took 0.805
+[2018.08.07-23.45.19:350][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-23.45.19:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-23.45.19:365][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-23.45.19:371][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-23.45.19:377][  0]LogCollectionManager: Loaded 0 collections in 0.001256 seconds
+[2018.08.07-23.45.19:417][  0]LogFileCache: Scanning file cache for directory 'D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Saved/Collections/' took 0.01s
+[2018.08.07-23.45.19:418][  0]LogFileCache: Scanning file cache for directory 'D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Content/Developers/mitchelljan7103/Collections/' took 0.01s
+[2018.08.07-23.45.19:418][  0]LogFileCache: Scanning file cache for directory 'D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Content/Collections/' took 0.01s
+[2018.08.07-23.45.19:418][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.07-23.45.19:425][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2574 classes and 605 folders.
+[2018.08.07-23.45.19:431][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.07-23.45.19:465][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.07-23.45.19:470][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.07-23.45.19:481][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.07-23.45.19:484][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.07-23.45.19:488][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.07-23.45.19:556][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2018.08.07-23.45.19:687][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-23.45.19:700][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.08.07-23.45.19:731][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.07-23.45.19:731][  0]LogLoad: (Engine Initialization) Total time: 8.70 seconds
+[2018.08.07-23.45.19:731][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.07-23.45.19:740][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.07-23.45.19:761][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.07-23.45.19:785][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.07-23.45.19:797][  1]LogAssetRegistry: Asset discovery search completed in 5.0001 seconds
+[2018.08.07-23.45.19:798][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.07-23.45.19:798][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2018.08.07-23.45.41:641][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-23.46.10:338][633]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.07-23.46.10:399][633]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Users/mitchell.jan7103/Desktop/for crhis/prototype 2.wav)
+[2018.08.07-23.46.23:593][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-23.46.31:302][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-23.47.26:350][919]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave prototype_2...
+[2018.08.07-23.47.26:353][919]LogTemp: Couldn't find amount to resample to.
+[2018.08.07-23.47.27:933][919]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 18622800 while cooking SoundWave /Game/ThirdPersonCPP/prototype_2.prototype_2.
+[2018.08.07-23.47.44:928][938]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/ThirdPersonCPP/prototype_2_Cue.prototype_2_Cue
+[2018.08.07-23.47.45:024][938]LogSlate: Took 0.001230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.07-23.48.06:633][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/prototype_2_Cue" FILE="D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Content/ThirdPersonCPP/prototype_2_Cue.uasset" SILENT=true
+[2018.08.07-23.48.06:641][510]LogSavePackage: Moving 'D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Saved/prototype_2_Cue5E18F9CF409412967E6205A775000924.tmp' to 'D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Content/ThirdPersonCPP/prototype_2_Cue.uasset'
+[2018.08.07-23.48.07:815][650]LogSlate: Window 'prototype_2_Cue' being destroyed
+[2018.08.07-23.48.07:818][650]LogSlate: Window 'prototype_2_Cue' being destroyed
+[2018.08.07-23.48.20:508][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-23.48.20:615][175]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.07-23.48.20:628][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.08.07-23.48.20:629][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.07-23.48.20:646][175]PIE: New page: PIE session: NewMap (Aug 8, 2018, 11:48:20 PM)
+[2018.08.07-23.48.20:647][175]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.07-23.48.20:653][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006466s)
+[2018.08.07-23.48.20:654][175]LogAIModule: Creating AISystem for world NewMap
+[2018.08.07-23.48.20:655][175]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2018.08.07-23.48.20:655][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.007721s)
+[2018.08.07-23.48.20:679][175]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.07-23.48.20:684][175]LogInit: FAudioDevice initialized.
+[2018.08.07-23.48.20:729][175]LogLoad: Game class is 'EscapeRoomGameMode'
+[2018.08.07-23.48.20:736][175]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.08.08-11.48.20
+[2018.08.07-23.48.20:738][175]LogWorld: Bringing up level for play took: 0.002198
+[2018.08.07-23.48.20:766][175]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.08.07-23.48.20:803][175]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.215
+[2018.08.07-23.48.20:803][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.08.07-23.48.38:368][276]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.08.07-23.48.38:368][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-23.48.38:402][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-23.48.38:402][276]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.08.07-23.48.38:420][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-23.48.38:470][281]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.08.07-23.48.53:342][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-23.48.53:451][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.07-23.48.53:582][ 76]LogSavePackage: Moving 'D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Saved/NewMap1CE9C0314B9211B55EB3E58715C29EE7.tmp' to 'D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Content/Maps/NewMap.umap'
+[2018.08.07-23.48.53:600][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2018.08.07-23.48.53:612][ 76]LogSavePackage: Moving 'D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Saved/NewMap_BuiltDataBC9231084753A12F69F6BEA904D9146D.tmp' to 'D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Content/Maps/NewMap_BuiltData.uasset'
+[2018.08.07-23.48.56:971][243]LogSlate: Window 'Save Content' being destroyed
+[2018.08.07-23.48.57:002][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/prototype_2" FILE="D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Content/ThirdPersonCPP/prototype_2.uasset" SILENT=true
+[2018.08.07-23.48.57:021][243]LogSavePackage: Moving 'D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Saved/prototype_2D8DC736248C215AD94B8EEBE5AD3EE22.tmp' to 'D:/Users/mitchell.jan7103/Documents/GitHub/Escape-Room/EscapeRoomNew/Content/ThirdPersonCPP/prototype_2.uasset'
