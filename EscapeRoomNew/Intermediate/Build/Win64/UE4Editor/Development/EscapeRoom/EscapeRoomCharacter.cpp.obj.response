@@ -24,9 +24,9 @@
 /wd4838
 /we4668
 /I .
-/I "D:\Users\Ethan.Hop7668\Documents\Unreal Projects\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Inc\EscapeRoom"
-/I "D:\Users\Ethan.Hop7668\Documents\Unreal Projects\EscapeRoom\Source"
-/I "D:\Users\Ethan.Hop7668\Documents\Unreal Projects\EscapeRoom\Source\EscapeRoom"
+/I D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\UE4Editor\Inc\EscapeRoom
+/I D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Source
+/I D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Source\EscapeRoom
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -410,12 +410,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"D:\Users\Ethan.Hop7668\Documents\Unreal Projects\EscapeRoom\Intermediate\Build\Win64\EscapeRoomEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\Users\Ethan.Hop7668\Documents\Unreal Projects\EscapeRoom\Intermediate\Build\Win64\EscapeRoomEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\Users\Ethan.Hop7668\Documents\Unreal Projects\EscapeRoom\Intermediate\Build\Win64\EscapeRoomEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Users\Ethan.Hop7668\Documents\Unreal Projects\EscapeRoom\Source\EscapeRoom\EscapeRoomCharacter.cpp"
-/FI"D:\Users\Ethan.Hop7668\Documents\Unreal Projects\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\Definitions.EscapeRoom.h"
-/Fo"D:\Users\Ethan.Hop7668\Documents\Unreal Projects\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoomCharacter.cpp.obj"
+/FI"D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\EscapeRoomEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\EscapeRoomEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\EscapeRoomEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Source\EscapeRoom\EscapeRoomCharacter.cpp"
+/FI"D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\Definitions.EscapeRoom.h"
+/Fo"D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoomCharacter.cpp.obj"
 /TP
 /GR-
 /W4

@@ -1,3 +1,3 @@
-D:\Users\Ethan.Hop7668\Documents\Unreal Projects\EscapeRoom\Source\EscapeRoom\EscapeRoom.Build.cs
-D:\Users\Ethan.Hop7668\Documents\Unreal Projects\EscapeRoom\Source\EscapeRoom.Target.cs
-D:\Users\Ethan.Hop7668\Documents\Unreal Projects\EscapeRoom\Source\EscapeRoomEditor.Target.cs
+D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Source\EscapeRoom\EscapeRoom.Build.cs
+D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Source\EscapeRoom.Target.cs
+D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Source\EscapeRoomEditor.Target.cs
