@@ -30,7 +30,7 @@ AEscapeRoomCharacter::AEscapeRoomCharacter()
 	GetCharacterMovement()->bOrientRotationToMovement = true; // Character moves in the direction of input...	
 	GetCharacterMovement()->RotationRate = FRotator(0.0f, 540.0f, 0.0f); // ...at this rotation rate
 	GetCharacterMovement()->JumpZVelocity = 400.0f;
-	GetCharacterMovement()->AirControl = 10.0f;
+	GetCharacterMovement()->AirControl = 30.0f;
 
 	// Create a camera boom (pulls in towards the player if there is a collision)
 	CameraBoom = CreateDefaultSubobject<USpringArmComponent>(TEXT("CameraBoom"));

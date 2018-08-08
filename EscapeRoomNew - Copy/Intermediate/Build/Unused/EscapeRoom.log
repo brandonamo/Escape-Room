@@ -1,0 +1,17 @@
+﻿  Cleaning EscapeRoomEditor Binaries...
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for EscapeRoomEditor (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Using Visual Studio 2017 14.11.25503 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.11.25503) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for EscapeRoomEditor
+    Running UnrealHeaderTool "D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew - Copy\EscapeRoom.uproject" "D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew - Copy\Intermediate\Build\Win64\EscapeRoomEditor\Development\EscapeRoomEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for EscapeRoomEditor in 7.3186859 seconds
+  Building 10 actions with 8 processes...
+    PCLaunch.rc
+    SharedPCH.Engine.cpp
+c:\apps\epic games\ue_4.20\engine\source\runtime\core\public\Windows/WindowsPlatformCompilerSetup.h(21): error C2338: Visual Studio 2017 version 15.6 is required to compile on Windows. Please install updates through the Visual Studio installer.
+UnrealBuildTool : error : UBT ERROR: Failed to produce item: D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew - Copy\Binaries\Win64\UE4Editor-EscapeRoom.dll
+                          (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+  Total build time: 23.85 seconds (Parallel executor: 0.00 seconds)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(49,5): error MSB3073: The command ""C:\apps\Epic Games\UE_4.20\Engine\Build\BatchFiles\Rebuild.bat" EscapeRoomEditor Win64 Development "D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew - Copy\EscapeRoom.uproject" -WaitMutex -FromMsBuild" exited with code -1.

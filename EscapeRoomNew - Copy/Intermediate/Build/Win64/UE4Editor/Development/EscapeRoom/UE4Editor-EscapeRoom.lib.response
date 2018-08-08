@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-EscapeRoom.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew - Copy\Intermediate\Build\Win64\EscapeRoomEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew - Copy\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoom.cpp.obj"
+"D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew - Copy\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoomCharacter.cpp.obj"
+"D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew - Copy\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoomGameMode.cpp.obj"
+"D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew - Copy\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoom.init.gen.cpp.obj"
+"D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew - Copy\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoomCharacter.gen.cpp.obj"
+"D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew - Copy\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\EscapeRoomGameMode.gen.cpp.obj"
+"D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew - Copy\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\PCLaunch.rc.res"
+/OUT:"D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew - Copy\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\UE4Editor-EscapeRoom.lib"
