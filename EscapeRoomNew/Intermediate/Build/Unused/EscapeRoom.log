@@ -1,0 +1,10 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Compiling game modules for hot reload
+  Building 3 actions with 8 processes...
+    EscapeRoomCharacter.cpp
+    UE4Editor-EscapeRoom-1467.lib
+       Creating library D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\UE4Editor-EscapeRoom-1467.lib and object D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\UE4Editor-EscapeRoom-1467.exp
+    UE4Editor-EscapeRoom-1467.dll
+       Creating library D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\UE4Editor-EscapeRoom-1467.suppressed.lib and object D:\Users\Ethan.Hop7668\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\UE4Editor-EscapeRoom-1467.suppressed.exp
+  Deploying EscapeRoomEditor Win64 Development...
+  Total build time: 2.89 seconds (Parallel executor: 1.49 seconds)
