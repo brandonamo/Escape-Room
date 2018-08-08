@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\EscapeRoom.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{16B2DE5E-8B3D-4042-956A-EEA27DD3523C}</UniqueIdentifier>
+			<UniqueIdentifier>{13B74C58-201D-499C-9172-5FB9BB502FFB}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\EscapeRoom.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{93A00A99-17F1-4900-9159-0D9EA0054F98}</UniqueIdentifier>
+			<UniqueIdentifier>{33642166-E3F8-4405-BBE7-CFF8044B522E}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\EscapeRoom">
-			<UniqueIdentifier>{BE43CD54-CF74-4B76-BE35-4B99726B7868}</UniqueIdentifier>
+			<UniqueIdentifier>{A641E7EB-03A6-4504-A729-1D2373145E4F}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\EscapeRoom\EscapeRoom.Build.cs">
 			<Filter>Source\EscapeRoom</Filter>

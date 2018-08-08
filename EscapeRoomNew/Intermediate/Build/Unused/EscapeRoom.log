@@ -1,2 +1,10 @@
-﻿  The system cannot find the path specified.
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(49,5): error MSB3073: The command "C:\apps\UE_4.20\Engine\Build\BatchFiles\Rebuild.bat EscapeRoomEditor Win64 Development "D:\Users\chris.hay6821\Documents\Github\Escape-Room\EscapeRoomNew\EscapeRoom.uproject" -WaitMutex -FromMsBuild" exited with code 3.
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Compiling game modules for hot reload
+  Building 3 actions with 8 processes...
+    EscapeRoomCharacter.cpp
+    UE4Editor-EscapeRoom-9270.lib
+       Creating library D:\Users\chris.hay6821\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\UE4Editor-EscapeRoom-9270.lib and object D:\Users\chris.hay6821\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\UE4Editor-EscapeRoom-9270.exp
+    UE4Editor-EscapeRoom-9270.dll
+       Creating library D:\Users\chris.hay6821\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\UE4Editor-EscapeRoom-9270.suppressed.lib and object D:\Users\chris.hay6821\Documents\GitHub\Escape-Room\EscapeRoomNew\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\UE4Editor-EscapeRoom-9270.suppressed.exp
+  Deploying EscapeRoomEditor Win64 Development...
+  Total build time: 2.81 seconds (Parallel executor: 1.41 seconds)
